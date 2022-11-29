@@ -75,5 +75,14 @@
     <ClCompile Include="平方数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="变量和常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="转义字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

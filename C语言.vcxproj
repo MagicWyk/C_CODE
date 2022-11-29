@@ -151,6 +151,8 @@
     <ClCompile Include="其他自增运算符.c" />
     <ClCompile Include="取地址.c" />
     <ClCompile Include="变量与常量.c" />
+    <ClCompile Include="变量和常量.cpp" />
+    <ClCompile Include="字符串.c" />
     <ClCompile Include="平方数.c" />
     <ClCompile Include="循环嵌套.c" />
     <ClCompile Include="指针数组.c" />
@@ -159,6 +161,7 @@
     <ClCompile Include="数组指针.c" />
     <ClCompile Include="求利润.c" />
     <ClCompile Include="自加自减运算符.c" />
+    <ClCompile Include="转义字符.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
