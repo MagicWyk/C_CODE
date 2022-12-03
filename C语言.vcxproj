@@ -86,7 +86,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions> _CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -148,18 +148,22 @@
     <ClCompile Include="switch用法.c" />
     <ClCompile Include="while循环.c" />
     <ClCompile Include="三位数.c" />
+    <ClCompile Include="两个数的较大值.c" />
     <ClCompile Include="其他自增运算符.c" />
+    <ClCompile Include="函数.c" />
     <ClCompile Include="取地址.c" />
     <ClCompile Include="变量与常量.c" />
     <ClCompile Include="变量和常量.cpp" />
     <ClCompile Include="字符串.c" />
     <ClCompile Include="平方数.c" />
     <ClCompile Include="循环嵌套.c" />
+    <ClCompile Include="循环语句再练.c" />
     <ClCompile Include="指针数组.c" />
     <ClCompile Include="指针数组拉链结构.c" />
     <ClCompile Include="指针用法.c" />
     <ClCompile Include="数组指针.c" />
     <ClCompile Include="求利润.c" />
+    <ClCompile Include="结构体.c" />
     <ClCompile Include="自加自减运算符.c" />
     <ClCompile Include="转义字符.c" />
   </ItemGroup>

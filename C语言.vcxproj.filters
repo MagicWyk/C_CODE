@@ -84,5 +84,17 @@
     <ClCompile Include="转义字符.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="循环语句再练.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个数的较大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
